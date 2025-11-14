@@ -1,0 +1,43 @@
+Here's a concise summary of your resume, Naveen:
+
+---
+
+### 🧾 **Professional Summary**
+You're a seasoned **Project Controller and Manager** with over **16 years of experience** in project finance, performance tracking, and cross-functional leadership. You specialize in budgeting, cost control, forecasting, and variance analysis, with a strong focus on data-driven decision-making and stakeholder collaboration.
+
+---
+
+### 💼 **Key Skills**
+- **Project & Strategic Management**: PMP-certified, adept in Agile, Waterfall, and ITIL methodologies.
+- **Technical Proficiency**: Skilled in SQL, Python, Power BI, Azure Data Factory, and ServiceNow API.
+- **Leadership & Collaboration**: Proven success in managing large teams (40+ members), optimizing workflows, and enhancing SLA adherence.
+- **Reporting & Analytics**: Expert in dashboard development, financial reporting, and predictive analytics.
+
+---
+
+### 📊 **Career Highlights**
+- **Cognizant (Toronto, ON)** – Project Manager (2021–Present)
+  - Delivered $80K in cost savings through budget analysis.
+  - Improved project accuracy from 97% to 99%.
+  - Led multiple transformation projects and developed Power BI dashboards reducing incident response time by 22%.
+
+- **Cognizant (USA, TX)** – Associate Operations Manager (2011–2021)
+  - Engineered self-healing automation saving $80K annually.
+  - Designed chatbot solutions cutting service desk wait times by 35%.
+
+- **Wipro Technologies (India)** – Project Manager (2006–2011)
+  - Reduced Tier 2 escalations by 40% via Shift-Left strategy.
+  - Improved operational turnaround time by 20%.
+
+- **DELL International Services** – Sr. Technical Support Expert (2004–2006)
+  - Boosted customer satisfaction by 15% through feedback loops.
+
+---
+
+### 🎓 **Certifications & Training**
+- **Certifications**: PMP, Power BI Data Analyst, ITIL Foundation, Microsoft SCCM
+- **Courses**: SQL & Python for Data Analytics, Azure Data Factory, Generative AI for PMs
+
+---
+
+Let me know if you'd like help tailoring this summary for a specific job application or LinkedIn profile.
